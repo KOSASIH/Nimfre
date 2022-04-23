@@ -1,7 +1,7 @@
 import logo from './logo.svg';
-import './App.css';
+import './Nimfre.css';
 
-function App() {
+function Nimfre() {
   return (
     <div className="Nimfre">
       <header className="Nimfre-header">
